@@ -1,0 +1,12 @@
+Client x Server
+
+Client = Computador/Celular
+
+Navegador = require("HTML", "CSS" & "JS")
+                Conteúdo - Estilo - Integração
+
+Internet
+
+Server = (Sites/etc) => {
+    Outro Computador com algum OS com arquivos para o site
+}
